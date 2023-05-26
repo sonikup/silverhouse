@@ -1,0 +1,28 @@
+@media screen and (max-width:1100px) {
+    .block2{
+        max-width: 350px;
+        
+    }
+    .text1{
+        height: 351px;
+        width: 595px;
+        padding-right: 10px;
+    }
+    .end{
+        gap: 350px;
+    }
+    .banner img{
+        width: 700px;
+    }
+}
+@media screen and (max-width:900px){
+    .obertka{
+        flex-wrap: wrap;
+    }
+    .block2{
+        margin-left: 600px;
+    }
+    .end{
+        gap: 10px;
+    }
+}
